@@ -1,0 +1,2 @@
+['dinesh','a','b','c','g','f','h','j','u','o','p']
+[('dinesh','a'),('dinesh','c'),('a','c')]
